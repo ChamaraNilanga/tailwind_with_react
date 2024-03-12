@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": "a576",
+      "name": "Piumika Dilshan",
+      "email": "test4@gmail.com"
+    },
+    {
+      "id": "4617",
+      "name": "පියුමික ඩිල්ශාන්",
+      "email": "smc.admin@prst.live"
+    },
+    {
+      "id": "9c11",
+      "name": "test1",
+      "email": "piumikadil@gmail.com"
+    },
+    {
+      "id": "cbf5",
+      "name": "dsdsddsdsdsdsdsd",
+      "email": "smc.clerk@prst.live"
+    },
+    {
+      "name": "test5s5/",
+      "email": "piusmika@gmail.com5/",
+      "id": "2f00"
+    },
+    {
+      "name": "xaa",
+      "email": "test4@gmail.coma",
+      "id": "8eb9"
+    },
+    {
+      "id": "2289",
+      "name": "dsdsddsdsdsdsdsd",
+      "email": "smc.admin@prst.live"
+    },
+    {
+      "id": "d03a",
+      "name": "test1",
+      "email": "smc.admin@prst.live"
+    },
+    {
+      "id": "6ed5",
+      "name": "Piumika Dilshan",
+      "email": "smc.admin@prst.live"
+    },
+    {
+      "id": "55d4",
+      "name": "test1",
+      "email": "smc.admin@prst.live"
+    },
+    {
+      "id": "de8e",
+      "name": "test6",
+      "email": "smc.admin@prst.live"
+    },
+    {
+      "id": "1b85",
+      "name": "Piumika Dilshan",
+      "email": "smc.admin@prst.live"
+    },
+    {
+      "id": "bf6a",
+      "name": "test1",
+      "email": "smc.admin@prst.live"
+    },
+    {
+      "id": "4904",
+      "name": "test1",
+      "email": "piumika@gmail.com"
+    }
+  ],
+  "prodcuts": [
+    {
+      "prodcutName": "I phone",
+      "price": 12000,
+      "description": "Costly Phone",
+      "qty": 23,
+      "id": "1"
+    }
+  ],
+  "company": [
+    {
+      "name": "A B C Limited",
+      "email": "bac@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "Softlogic company",
+      "email": "softlogic@yahoo.com",
+      "id": "2"
+    },
+    {
+      "name": "Nokia",
+      "email": "nokia@yahoo.com",
+      "id": "3"
+    }
+  ]
+}
